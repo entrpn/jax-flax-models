@@ -19,3 +19,11 @@ pip install -r requirements.txt
 ```bash
 python train_autoencoder.py
 ```
+
+## Test
+
+`test_autoencoder.py` runs through different blocks to check that they were implemented correct and that the output dimensions are as expected.
+
+```bash
+python test_autoencoder.py
+```
